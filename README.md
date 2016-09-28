@@ -5,7 +5,7 @@
 *整理自 《 Objective-C 高级编程 iOS 和 OS X 多线程和内存管理》 Kazuki Sakamoto 等*
 ARC，即自动引用计数，是指内存管理中对引用采用自动计数技术。
 #### 内存管理/引用计数 
-[内存管理、引用计数.md](http://github.com/ccding-ustc/Notes/master/内存管理、引用计数.md)
+[内存管理、引用计数.md](https://github.com/ccding-ustc/Notes/blob/master/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E3%80%81%E5%BC%95%E7%94%A8%E8%AE%A1%E6%95%B0.md)
 #### ARC 规则
 #### ARC 的实现
 
