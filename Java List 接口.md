@@ -1,5 +1,6 @@
 # List 接口
 [TOC]
+
 常见三种 List 接口的实现包括 ArrayList, Vector, LinkedList 。三者都实现了 AbstractList ， AbstractList 实现了 List 接口，并且扩展自 AbstractCollection 。
 ## ArrayList 和 Vector 
 - ArrayList 和 Vector 都使用了数组实现，封装了对数组的添加、删除、插入新元素等操作。
