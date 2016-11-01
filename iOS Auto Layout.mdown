@@ -7,7 +7,7 @@ tags:
 [TOC]
 *整理自 Apple 官方文档 [Auto Layout](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)*
 ## 理解Auto Layout
-Auto Layout动态地计算视图层中所有视图的大小和位置，基于设置在这些视图上的约束。例如，你能约束一个button使得其水平居中于一个Image视图，并且使得button的上边缘距离Image视图的下边缘8个像素点。如果Image视图大小和位置改变了，button视图的位置自动调整以匹配之前的约束。
+Auto Layout 基于设置在视图上的约束动态地计算视图层中所有视图的大小和位置。例如，你能约束一个button使得其水平居中于一个Image视图，并且使得button的上边缘距离Image视图的下边缘8个像素点。如果Image视图大小和位置改变了，button视图的位置自动调整以匹配之前的约束。
 基于约束的方法可以对内部和外部的改变做出动态调整。
 ### 外部改变 
 外部改变通常在父视图的大小或者形状发生改变的时候发生。一些常见的外部改变:
